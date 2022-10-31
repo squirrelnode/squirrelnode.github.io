@@ -4,3 +4,8 @@ _site/
 
 # IDE
 .idea/
+
+# File types
+*.jpg
+*.jpeg
+*.xcf
